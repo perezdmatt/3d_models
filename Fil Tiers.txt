@@ -1,0 +1,39 @@
+Fil Tiers:
+
+S:
+Carbon fibre PLA: high detail, clean finish. does require harden steel nozzle.
+(composite) Tough PLA
+High speed PLA: If need to finish fast but does melt easy
+Carbon Fibre petg, better than petg in everyway perfect for functional prototypes.
+PCTG: Perfect filament, only downside is expensive and supports hard to remove
+Glass filled nylon: Better than nylon but extremely expensive.
+A:
+PLA is cheap, good for overhangs, supports. Consistent load will eventually bend it out of shape. Can't survive real world, cant really sand etc.
+PETG: Tough, but suspectible to climate and does bad on overhangs and supports due to sagging.
+CF-PET:High performance but expensive.
+ASA: still smells but better version of ABS.
+CFPC: Extremely stiff, and cheap.
+PC-PBT:Strength and shatter resistant, works well in the cold whihc is main advantage.
+ 
+B: 
+PA12-Nylon: Better than PA6 but more expensive
+HIPS: good for wearable device,
+PVB, can melt it with isa to hide lines (though this can melt it in the rack)
+PET: Stronger than PETG but 
+Silk PLA is good for supports as it comes off easy but is good for aesthetics , can destroy printer though.
+MATTE PLA: Flexiblity
+Wood PLA. 
+PCL: Super low melting good for prosthetics as melts at very low temp.
+PA6-Nylon (Engineering filament), Heavy duty filament, basically imortal, very difficult to print.
+Polycarbonate (PC): Rigid,
+
+C:
+ABS: Strong but stinks/fumes are bad.
+PA6CF:
+Nylon polyester:
+F:
+Metal composites.
+PMMA: Likely to fail printing, looks nice though.
+
+
+
